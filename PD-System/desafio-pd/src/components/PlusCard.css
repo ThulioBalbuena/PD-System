@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@600;700&display=swap');
+.plus-card {
+    font-family: 'Quicksand', sans-serif;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 320px;
+    height: 340px;
+    border-radius: 15px; 
+    background-color: #f8f4f4;
+    font-size: 200px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 23px;
+    color: #c9c9c9;
+  }
+ 
+.plus-card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+
+.container {
+    padding-left: 10px;
+  }
